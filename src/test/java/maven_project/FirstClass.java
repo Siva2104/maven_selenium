@@ -9,6 +9,12 @@ public class FirstClass {
 	public static void main() {
 		// TODO Auto-generated method stub
 		System.out.println("TestCase Passed - TC0032");
+		System.out.println("TestCase Passed - TC0032");
+		System.out.println("TestCase Passed - TC0032");
+		System.out.println("TestCase Passed - TC0032");
+		System.out.println("TestCase Passed - TC0032");
+		System.out.println("TestCase Passed - TC0032");
+		System.out.println("TestCase Passed - TC0032");
 	}
 
 }
