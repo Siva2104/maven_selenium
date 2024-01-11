@@ -19,7 +19,7 @@ protected WebDriver driver  ;
 
 	@Test (alwaysRun = true , description="Lauching the Browser")
 	public void browser() throws InterruptedException, AWTException, IOException {
-
+/////////////////////////////////////////////////////
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\1925566\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 		//driver = new ChromeDriver();
 		ChromeOptions options = new ChromeOptions();
