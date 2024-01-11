@@ -55,7 +55,7 @@ private String parentWindowHandle;
 		
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\1925566\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 		driver = new ChromeDriver();
-		driver.get("https://10.11.144.178:8107/home/login/1/");
+		driver.get("");
 		driver.manage().window().maximize();
 		System.out.println("Lauching Browser");
 		FileInputStream fs = new FileInputStream("C:\\BFSI_test\\automation\\login_test.xlsx");
